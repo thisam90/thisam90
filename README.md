@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thisam90
 - 👀 I’m interested in ['Robotics', 'Full-Stack Development', 'Data', 'JavaScript', 'C++', 'C#, 'Python', 'Classical Music', 'Earthlings stuff'];
-- 🌱 I’m currently learning ['JavaScript']
 - 💞️ I’m looking to collaborate on ['Open Source Projects' , 'Pure Awesome Stuff']
 - 📫 How to reach me ['xdflive@outlook.com']
 
