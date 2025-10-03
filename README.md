@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Alex  
-📍 **Location:** Redruth  
-💻 **Self-taught Developer** | ⚙️ C++ Enthusiast | 🎨 Graphics & Systems Programming | 🔧 Exploring Embedded  
-
-
-## 🚀 About Me  
 
 ```cpp
 //  ==============================
