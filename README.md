@@ -1,26 +1,33 @@
-
-```cpp
+```c#
 //  ==============================
 //   ⌐■-■   Alex - Self-Taught Dev
 //  ==============================
 //   Location: Redruth
-//   Language: C++
-//   Specialty: Graphics | Systems | Embedded (exploring)
+//   Language: C#
+//   Specialty (exploring): Graphics | Systems | Web |  Embedded 
 //  ==============================
 //
-//  // TODO: Become graphics wizard 🧙
-//  // TODO: Contribute to open-source C++ projects
+//  // TODO: Become system,  graphics wizard 🧙
+//  // TODO: Contribute to open-source C# projects
 //  // TODO: Write my own rendering engine
 //
-struct AboutMe {
-    std::string name = "Alex";
-    std::string location = "Redruth";
-    std::vector<std::string> interests = {
-        "C++", "Graphics Programming", 
-        "Systems Programming", "Embedded Development"
+
+public class AboutMe
+{
+    public string Name { get; init; } = "Alex";
+    public string Location { get; init; } = "Redruth";
+    public List<string> Interests { get; init; } = new()
+    {
+        "C#",
+        "Graphics Programming",
+        "Systems Programming",
+        "Embedded Development",
+        "Web"
     };
     
-    bool isAlwaysLearning() const { return true; }
-    bool lovesLowLevel() const { return true; }
-};
+    public bool IsAlwaysLearning() => true;
+    public bool LovesLowLevel() => true;
+    public bool LovesGraphics() => true;
+}
+
 ```
